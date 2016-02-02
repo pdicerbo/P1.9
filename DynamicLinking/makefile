@@ -2,7 +2,7 @@ CC=gcc
 LIBS=-ldl
 CFLAGS=-Wall -O
 
-all: hello.so test-1.x test-0.x
+all: hello.so test-1.x # test-0.x
 
 hello.so : hello.c
 	$(CC) -shared -o $@ -fPIC -Wall -O $^
