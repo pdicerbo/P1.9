@@ -11,7 +11,7 @@ For this exercise you will be working in groups.
 +---------+--------------------------------------------+
 | group2  | Paronuzzi-Ticco, Brenes Navarro, Andò      |
 +---------+--------------------------------------------+
-| group3  | Di Cerbo, Girardi, Owais, Carmona-Loaiza   |
+| group3  | Di Cerbo, Girardi, Owais                   |
 +---------+--------------------------------------------+
 | group4  | Aversa, Piani, Gallizia                    |
 +---------+--------------------------------------------+
